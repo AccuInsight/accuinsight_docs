@@ -1,10 +1,3 @@
-```
-Q1. bucketizer -inf~inf 왜 막아놈?
-Q1-2. bucketizer 함수는 input 여러개 안되는거같은데 ml은 각각 실행해서 붙여놓은건가?
-Q2. ChiSqSelector는 Feature Selector 카테고리로 들어가야할듯
-Q3. OneHotEncoder (Deprecated since 2.3.0) -> OneHotEncoderEstimator
-Q4. PCA에 Vectors.sparse 안씀?
-```
 
 # ML modeler 알고리즘 사용법
 
