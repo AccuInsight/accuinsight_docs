@@ -1139,7 +1139,7 @@
 
 ### LinearRegression 시나리오
 
-[시나리오](predict_isolation.md)
+[시나리오](insolation_LR.md)
 
 ### RandomForestRegressor 시나리오
 
